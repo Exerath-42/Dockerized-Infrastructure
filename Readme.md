@@ -1,4 +1,4 @@
-# Dockerized Infrastructure - README
+# Dockerized Infrastructure
 
 Welcome to the Dockerized Infrastructure project! In this project, we have successfully set up a small infrastructure composed of different services within a virtual machine using Docker and Docker Compose. This README provides an overview of the project and instructions for running and managing the infrastructure.
 
@@ -74,9 +74,3 @@ dockerized-infrastructure/
         ├── nginx/
         └── wordpress/
 ```
-
-## Conclusion
-
-Congratulations! You have successfully set up a Dockerized Infrastructure with NGINX, WordPress, and MariaDB. Enjoy exploring and managing your virtualized services.
-
-If you have any questions or encounter any issues, feel free to reach out for assistance. Happy virtualization!
